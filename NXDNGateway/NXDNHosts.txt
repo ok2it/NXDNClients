@@ -134,6 +134,9 @@
 
 # 2265 Baia Mare YO5 NXDN Network
 2265	nxdn.dstar-yo.ro	41405
+# 230-231 Czech and Slovak TEST Reflector
+230231  jedi.ok2it.com  41400
+
 
 # 2345 CQ-North UK
 2345	nxdn.cqnorth.org.uk	41400
